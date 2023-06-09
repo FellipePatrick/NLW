@@ -1,0 +1,18 @@
+Componentes são pedaços de codigos que podem ser reutilizado
+
+Basicamente você cria um butão em uma pasta butao.tsx e voce consegue reaproveitar
+
+no seu codigo inteiro, serve para js, css, html
+
+____________
+
+Prioridade é basicamente passagem de parametro para os componentes
+
+____________
+
+Roteamento vem com o NextJs 
+
+se o arquivo tiver /pages.tsx ou .pages vira uma rota
+
+____________
+
